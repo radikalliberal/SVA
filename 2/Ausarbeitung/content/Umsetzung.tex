@@ -1,0 +1,40 @@
+\section*{Umsetzung} % (fold)
+\label{sec:umsetzung}
+
+%% Hier schreiben wie wir das netz gebaut haben
+
+
+Tabelle \ref{tab:zeiten} zeigt die von uns approximierten Zeiten für die vorhandenen Transitionen. Für alle Handlungen wird davon ausgegangen das die für die Handlung notwendigen Zutaten und Materialien dem Koch direkt vorliegen und der Koch sofort mit dem Vorgang beginnen kann.
+
+\begin{table}[ht]
+\centering
+\caption{Zeiten für Handlungen/Transitionen}
+\vspace{4mm}
+\label{tab:zeiten}
+
+	\begin{tabularx}{\textwidth}{| >{\setlength\hsize{\hsize}\centering}X | >{\setlength\hsize{\hsize}\centering}X |}
+	\hline
+	Handlung / Transition & Zeit in s \tabularnewline \hline \hline
+	Vanilleschote aufschneiden & 	3 + Dist.negexp(1) \tabularnewline \hline
+    Mark aufkochen & 	180 + Dist.negexp(5) \tabularnewline \hline
+    Milch \& Stärke verrühren & 	5 + Dist.negexp(4) \tabularnewline \hline
+    Zitrone \& Wein mischen &  5 + Dist.negexp(1) \tabularnewline \hline
+    Weinsoße schaumig rühren &  40 + Dist.negexp(5) \tabularnewline \hline
+    Milch/Stärke \& Vanillemilch verrühren &  5 + Dist.negexp(1) \tabularnewline \hline
+    Vanillecreme aufkochen & 60 + Dist.negexp(10) \tabularnewline \hline
+    Vanillecreme abkühlen lassen & 260 + Dist.negexp(40) \tabularnewline \hline
+    Ei trennen &  5 + Dist.negexp(1) \tabularnewline \hline
+    Eiweiss schlagen &  20 + Dist.negexp(4) \tabularnewline \hline
+    Schnee unter Vanillecreme unterheben &  5 + Dist.negexp(5) \tabularnewline \hline
+    Vanillecreme + Schnee abfüllen &  2 + Dist.negexp(2) \tabularnewline \hline
+    Vanillecreme mit heißer Weinsoße auffüllen &  2 + Dist.negexp(2) \tabularnewline \hline
+
+    \end{tabularx}
+\end{table}
+
+\begin{figure}[ht]
+  \includegraphics[width=1\textwidth]{pics/net.png}
+  \caption{Das auf Basis der Rezeptur erstellte Petrinetz, erweitert zum timed Net}
+  \label{pic:petrinetz}
+\end{figure}
+% section aufgabe_3 (end)

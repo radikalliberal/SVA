@@ -1,0 +1,67 @@
+% This is LLNCS.DEM the demonstration file of
+% the LaTeX macro package from Springer-Verlag
+% for Lecture Notes in Computer Science,
+% version 2.4 for LaTeX2e as of 16. April 2010
+%
+
+\documentclass{llncs}
+\usepackage{amsmath}
+\usepackage{german}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{makeidx}  % allows for indexgeneration
+\usepackage{caption}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows}
+%%%<
+\usepackage{verbatim}
+%\usepackage[active,tightpage]{preview}
+%\PreviewEnvironment{tikzpicture}
+%\setlength\PreviewBorder{5pt}%
+%
+\begin{document}
+%
+\mainmatter              % start of the contributions
+%
+\title{Übungsaufgabe 0.2: Rezept für Welfencreme}
+%
+\titlerunning{Formale Simulation und Verifikation verteilter Algorithmen SS17}  % abbreviated title (for running head)
+%                                     also used for the TOC unless
+%                                     \toctitle is used
+%
+\author{Jan Scholz, Lukas Kozlowski}
+%
+\authorrunning{Jan Scholz, Lukas Kozlowski} % abbreviated author list (for running head)
+%
+%%%% list of authors for the TOC (use if author list has to be modified)
+\tocauthor{Jan Scholz, Lukas Kozlowski}
+%
+\institute{Hochschule für angewandte Wissenschaften Hamburg,\\
+\email{jan.scholz2@haw-hamburg.de}\\
+\email{lukas.kozlowski@haw-hamburg.de}}
+
+\maketitle              % typeset the title of the contribution
+
+%\begin{abstract}
+
+%\end{abstract}
+%
+
+
+\input{content/1.tex} %Jan
+\input{content/2.tex} %Jan
+\input{content/3.tex} %Lukas 
+\input{content/4.tex} %Lukas
+\input{content/5.tex} %Lukas
+\input{content/6.tex} %Jan
+
+%\nocite{*}
+%\bibliographystyle{IEEEbib}
+%\bibliography{biblio}
+%\clearpage
+%\addtocmark[2]{Author Index} % additional numbered TOC entry
+\renewcommand{\indexname}{Author Index}
+\printindex
+\end{document}

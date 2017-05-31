@@ -1,0 +1,74 @@
+\tikzstyle{block} = [rectangle, draw, fill=blue!20, 
+    text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line} = [draw, -latex']
+\tikzstyle{cloud} = [draw, ellipse,fill=red!20, node distance=3cm,
+    minimum height=2em]
+    
+\begin{tikzpicture}[node distance = 2cm, auto]
+    % Place nodes
+    \node [cloud] (k1) {Koch 1};
+    \node [block, below of=k1] (aufschneiden) {aufschneiden};
+    \node [block, below of=aufschneiden] (aufkochen) {aufkochen};
+    \node at (0,-8) [block] (unterheben) {unterheben};
+    \node at (0,-10) [block] (ab1) {abfüllen};
+    \node at (0,-12) [block] (auf1) {auffüllen};
+
+
+
+    \node [cloud,right of=k1] (k2) {Koch 2};
+    \node [block, below of=k2] (verrühren) {verrühren};
+    \node at (3,-6) [block] (einrühren) {einrühren};
+    \node at (3,-10) [block] (ab2) {abfüllen};
+    \node at (3,-12) [block] (auf2) {auffüllen};
+
+
+    \node [cloud,right of=k2] (k3) {Koch 3};
+    \node [block, below of=k3] (mischen) {mischen};
+    \node [block, below of=mischen] (schaumig) {schaumig rühren und erhitzen};
+    \node at (6,-10) [block] (ab3) {abfüllen};
+    \node at (6,-12) [block] (auf3) {auffüllen};
+    
+
+    \node [cloud,right of=k3] (k4) {Koch 4};
+    \node [block, below of=k4] (t1) {trennen};
+    \node [block, below of=t1] (t2) {trennen};
+    \node [block, below of=t2] (t3) {trennen};
+    \node [block, below of=t3] (schlagen) {schlagen};
+    \node at (9,-10) [block] (ab4) {abfüllen};
+    \node at (9,-12) [block] (auf4) {auffüllen};
+
+    
+    %\node [block, left of=evaluate, node distance=3cm] (update) {update model};
+    %\node [block, below of=decide, node distance=3cm] (stop) {stop};
+    % Draw edges
+    \path [line] (k1) -- (aufschneiden);
+    \path [line] (aufschneiden) -- (aufkochen);
+    \path [line] (aufkochen) -- (unterheben);
+    \path [line] (unterheben) -- (ab1);
+    \path [line] (ab1) -- (auf1);
+
+    \path [line] (k2) -- (verrühren);
+    \path [line] (verrühren) -- (einrühren);
+    \path [line] (einrühren) -- (ab2);
+    \path [line] (ab2) -- (auf2);
+
+
+    \path [line] (k3) -- (mischen);
+    \path [line] (mischen) -- (schaumig);
+    \path [line] (schaumig) -- (ab3);
+    \path [line] (ab3) -- (auf3);
+
+    \path [line] (k4) -- (t1);
+    \path [line] (t1) -- (t2);
+    \path [line] (t2) -- (t3);
+    \path [line] (t3) -- (schlagen);
+    \path [line] (schlagen) -- (ab4);
+    \path [line] (ab4) -- (auf4);
+    %\path [line] (evaluate) -- (decide);
+    %\path [line] (decide) -| node [near start] {yes} (update);
+    %\path [line] (update) |- (identify);
+    %\path [line] (decide) -- node {no}(stop);
+    %\path [line,dashed] (expert) -- (init);
+    %\path [line,dashed] (system) -- (init);
+    %\path [line,dashed] (system) |- (evaluate);
+\end{tikzpicture}

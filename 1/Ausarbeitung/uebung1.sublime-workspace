@@ -1,0 +1,974 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Schimmelpilz",
+				"Schimmelpilzbildung"
+			],
+			[
+				"xs",
+				"xsd:time"
+			],
+			[
+				"dl",
+				"dlgTabPage"
+			],
+			[
+				"ba",
+				"Barata:2013:IPL:2583008.2583010: Improving Participation and Learning with Gamification"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Ausarbeitung.tex",
+			"settings":
+			{
+				"buffer_size": 1835,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/2.tex",
+			"settings":
+			{
+				"buffer_size": 671,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/3.tex",
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/4.tex",
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/5.tex",
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/1.tex",
+			"settings":
+			{
+				"buffer_size": 246,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/6.tex",
+			"settings":
+			{
+				"buffer_size": 289,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/flowchart.tikz",
+			"settings":
+			{
+				"buffer_size": 2748,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": "num",
+		"selected_items":
+		[
+			[
+				"num",
+				"Text Pastry: Range (numeric)"
+			],
+			[
+				"Latex",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Thesa",
+				"Thesaurus search"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"valida",
+				"sublime-text-turtle-sparql-master: Validate Turtle File"
+			],
+			[
+				"selectAll",
+				"Bookmarks: Select All"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 402.0,
+		"history":
+		[
+			"view.run_command('validateturtle')",
+			"gfjh",
+			"fgh",
+			"view.run_command('validateturtle')",
+			"view.run_command('ValidateTurtle')",
+			"view.run_command('TurtleValidator')",
+			"view.run_command('duplicate')",
+			"view.run_command('toggleconsole')",
+			"view.run_command('TurtleValidator')",
+			"view.run_command('ValidateTurtle')",
+			"view.run_command('validateturtle')",
+			"view.run_command('ValidateTurtle')",
+			"view.run_command('ValisateTurtle')",
+			"view.run_command('ValidateTurtle')",
+			"view.run_command('TurtleValidator')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/content",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung"
+	],
+	"file_history":
+	[
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/uebung1.sublime-project",
+		"/C/Users/jan/AppData/Local/TslGame/Saved/Config/WindowsNoEditor/GameUserSettings.ini",
+		"/C/Users/jan/AppData/Local/TslGame/Saved/Config/WindowsNoEditor/configs.sublime-project",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/content/flowchart.tikz.tex",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/Ausarbeitung.aux",
+		"/C/Users/jan/AppData/Local/Temp/simple-flow-chart.tex",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/content/1.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/content/Einleitung.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/material/Programcode VM Makehuman/readme.txt",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/minfsem.tex",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/content/6.tex",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/content/5.tex",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/content/4.tex",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/content/2.tex",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/content/3.tex",
+		"/D/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/1/Ausarbeitung/Ausarbeitung.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/content/Fazit.tex",
+		"/D/Dropbox/Studium/Latex/Templates/Minimal/Minimal.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/content/Erstellung-von-Trainingsdaten.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/content/Entwicklungsumgebung.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/content/Master.bib",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/content/Related-work.tex",
+		"/D/Dropbox/Dokumente/mlp/Frage Basisrente + BU",
+		"/D/Dropbox/Dokumente/mlp/Kritik Riza Tanriver",
+		"/C/Users/jan/AppData/Local/Temp/4345.tmp.txt",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/attachments/MasterReferenzen.bib",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/VergleichDLEnvs/kerasmnist.py",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/VergleichDLEnvs/mxnmnist.py",
+		"/D/Dropbox/Studium/Master Informatik/1.Semester/GSM/Ausarbeitung/Ausarbeitung.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/minfsem.sty",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/IEEEbib.bst",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/Vorlage.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/minfsem.out",
+		"/D/Dropbox/PublicMM1/matlab/script_render_fittings.m",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/material/mhimport.py",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/material/start.py",
+		"/D/Dropbox/PublicMM1/matlab/script_gen_random_head.m",
+		"/D/Dropbox/PublicMM1/matlab/load_model.m",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/content/Erstellung von Trainingsdaten.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/minfsem.bbl",
+		"/D/Dropbox/PublicMM1/matlab/rnd_head - Kopie.ply",
+		"/D/Dropbox/PublicMM1/matlab/rnd_head.ply",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Context.sublime-menu",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/Ausarbeitung_Grundprojekt.sublime-project",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/LaTeXTools.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/LaTeXTools/LaTeXTools (Advanced).sublime-settings",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/Ausarbeitung_Grundprojekt.sublime-workspace",
+		"/D/Program Files/Sublime Text 3/Data/Installed Packages/Thesaurus.sublime-package",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Thesaurus.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Thesaurus/Thesaurus.sublime-settings",
+		"/D/Dropbox/Dokumente/Lebenslauf/cv_9.tex",
+		"/G/Bewerbung/Programmierer Lebenslauf/cv_9.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/Neuer Ordner/Ausarbeitung.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/Ausarbeitung.tex",
+		"/D/makehumanModels/Programcode/bla",
+		"/D/makehumanModels/model_0.mhx2",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/material/renameoutput.ps1",
+		"/D/Dropbox/programmieren/Data Science/start.bat",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/biblio.bib",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/plugins/0_modeling_8_random.py",
+		"/D/cygwin64/Desktop/ipchange.sh",
+		"/D/Dropbox/Studium/Master Informatik/1.Semester/MI/Hausarbeit/Dokument/minfsem.tex",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Grundprojekt/material/blenderLoop.bat",
+		"/D/makehumanModels/done/1TogoHudipTQC3wy7YfcDvngIfZrtP4QIHZSjCWwJcxx.mhx2",
+		"/D/makehumanModels/model_36.mhx2",
+		"/D/makehumanModels/model_58.mhx2",
+		"/D/makehumanModels/model_61.mhx2",
+		"/D/makehumanModels/model_16.mhx2",
+		"/D/makehumanModels/model_11.mhx2",
+		"/D/makehumanModels/model_1.mhx2",
+		"/D/makehumanModels/learn/input/Model_0.bmp",
+		"/D/Program Files/Blender Foundation/Blender/2.78/scripts/templates_py/mhimport.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/plugins/7_scripting_new.py",
+		"/D/Program Files/Blender Foundation/Blender/2.78/scripts/addons/import_runtime_mhx2/importer.py",
+		"/D/Dropbox/Studium/Master Informatik/2.Semester/Modellierung dynamischer Systeme/Ausarbeitung/Ausarbeitung.tex",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/apps/gui/guifiles.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/plugins/9_export_bvh/__init__.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/mhmain.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/export.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/makehuman.py",
+		"/D/makehumanModels/7_scripting.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/apps/gui/guiexport.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/plugins/7_example.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/events3d.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/module3d.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/managed_file.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/files3d.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/plugins/9_export_obj/mh2obj.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/plugins/9_export_stl/mh2stl.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/lib/qtgui.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/animation3d.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/algos3d.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/gui3d.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/core/guicommon.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Dropbox/makehumanassets/data/hair/full_beard.mhclo",
+		"/D/Dropbox/VDIN/1516501216.pdf",
+		"/D/Dropbox/Studium/Master Informatik/Master Thema/Recherche.zkn3",
+		"/D/Dropbox/Dokumente/Brief Vorlage/Brief_Vorlage.tex",
+		"/D/Data/HIBP Consolidated and Anonymised Data.txt",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/lib/qtui.py",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/lib/filechooser.py",
+		"/D/Download/train.csv",
+		"/D/Dropbox/programmieren/Data Science/Who died in 2016/RIAA.csv",
+		"/D/Documents/makehuman/v1/python_err.txt",
+		"/C/Program Files/Docker Toolbox/start.sh",
+		"/D/cygwin64/Desktop/makehuman cmd/makehuman/lib/queue.py",
+		"/D/Dropbox/programmieren/Data Science/Who died in 2016/querys.sparql",
+		"/D/Download/sparql",
+		"/C/Users/admin/Documents/makehuman/v1/python_err.txt",
+		"/D/Documents/makehuman/v1/python_out.txt",
+		"/D/cygwin64/Desktop/makehuman cmd/README",
+		"/D/Documents/makehuman/v1/makehuman.log",
+		"/C/Users/admin/Documents/makehuman/v1/makehuman-debug.txt",
+		"/C/windows-version.txt",
+		"/C/Users/jan/AppData/Local/Temp/anki_temp/tmp.tex",
+		"/C/Users/jan/AppData/Local/Temp/anki_temp/latex_log.txt",
+		"/C/Users/jan/AppData/Local/Temp/anki_temp/tmp.log",
+		"/C/Users/jan/.jupyter/jupyter_notebook_config.py",
+		"/D/cygwin64/Desktop/jupyterdockerporttunnel.txt",
+		"/D/Dropbox/programmieren/Data Science/Fatal Police Shootings, 2015 to Present/database.csv",
+		"/D/Dropbox/M-UO Shared/Praktikum/Praktikum_Daniel_Christian/Praktikum_3/abgabe/Aufg3_Daniel.tex",
+		"/D/cygwin64/Desktop/dvipng-1.14/README",
+		"/D/cygwin64/Desktop/dvipng-1.14/INSTALL",
+		"/C/Users/jan/Desktop/hs.txt",
+		"/D/Dropbox/M-UO Shared/Praktikum/Praktikum_Daniel_Christian/Praktikum_3/abgabe/Aufg1_Christian.tex",
+		"/D/Dropbox/M-UO Shared/Praktikum/Praktikum_Daniel_Christian/Praktikum_3/abgabe/Aufg2_Jan.tex"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"heben",
+			");\n",
+			"equation",
+			"\\\"",
+			"equation",
+			"}\n",
+			"Hand",
+			"GPU",
+			"aktive",
+			"150",
+			"fle",
+			"4",
+			"3D-",
+			"3D",
+			"3D-Re",
+			"3D",
+			"3D-",
+			"Tr",
+			"TU",
+			"tu",
+			"Oder",
+			"Teano",
+			"Guoli",
+			"DBLP:conf/cvpr/BoothRZPD16",
+			"cite",
+			"\\",
+			"file\\s=\\s\\{.*\\},\\n",
+			" }",
+			"{ ",
+			" ",
+			"Noza",
+			"Vetter",
+			"natürlic",
+			"Hr.",
+			"223pt",
+			"{\\textit{",
+			"width=0.",
+			"Zunäc",
+			"Zunäcst",
+			"start",
+			"\\n\\n",
+			"#.*\\n",
+			"#.*",
+			"238pt",
+			"320pt",
+			"bf",
+			"\n",
+			"\\indent{\\parbox{320pt}{\\textbf{aktive Entwicklung} \\hspace{0.5cm} \\\\ }}",
+			"Tensorflow",
+			"modelexportblender",
+			"\\subfigure[Erstellung von Lerndaten, in der Form Input Bild und Output Tiefenbild \\label{pic:lerndatenmodell1}]{%\n      \\includegraphics[width=0.2\\textwidth]{pics/ModelCreation.pdf}\n    }",
+			"footnotemark[\\ref{",
+			"-",
+			"l",
+			"figure",
+			"\\}",
+			"  ",
+			"}\n",
+			"<sup>[1]</sup>",
+			"kammera",
+			"Kammera",
+			"[/latex]",
+			"[latex]",
+			"\\rightarrow",
+			"->",
+			"Methode 2",
+			"_",
+			"min",
+			"subsub",
+			"subsubsection",
+			"1",
+			"et al.",
+			"\\",
+			"^[^@}]+",
+			"1",
+			"100",
+			"ylim((",
+			".grid()",
+			"xlim",
+			"set_x",
+			"set_",
+			" / Schwarze",
+			" / Weiße",
+			"']), bins=20)",
+			".hist(bins=20)",
+			"\\",
+			"  ",
+			"   ",
+			"2,5",
+			"D:/makehumanModels/",
+			"filena",
+			"\"",
+			"global",
+			"main",
+			"SCRIPT:getPositionX",
+			"Scripting",
+			"event",
+			"path",
+			"format",
+			"path",
+			"expo",
+			"def start",
+			"start",
+			"run",
+			"exporter",
+			"addE",
+			"Expo",
+			"Export",
+			"Palmius",
+			"expo",
+			"export",
+			"expo",
+			"export",
+			"expo",
+			"exp",
+			"expo",
+			"export",
+			"log",
+			"1.2",
+			"2in",
+			"1in",
+			"=\\",
+			"unterschiedliche Schimmelarten",
+			"subfigure",
+			"subifugre",
+			"[c]",
+			"subfig",
+			"jpg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Herrn",
+			"Herr",
+			"Herrn",
+			"\\n",
+			"",
+			"rnd.random()",
+			"'",
+			";",
+			"\\n",
+			"\"",
+			"",
+			"]",
+			"[",
+			"\\$$1\\$ & $2 & \\$$4\\$ \\\\tabularnewline \\\\hline",
+			"\\$$1\\$ & $2 & \\$$3\\$ \\\\tabularnewline \\\\hline",
+			"\\$$1 & $2 & $3 \\\\tabularnewline \\\\hline",
+			"$1 & $2 & $3 \\\\tabularnewline \\\\hline",
+			"\\$$1\\$ & \\$$2\\$ & \\$$3\\$ \\\\tabularnewline \\\\hline",
+			"\\vartheta",
+			"\\\\section",
+			"\\\\$1subsection",
+			"\\\\$1section",
+			"\\$1section",
+			"\\section*",
+			"\\subsubsection*",
+			"\\subsection*",
+			"6cm",
+			"",
+			"$^{\\circ}$",
+			"\\subsection",
+			"\\section",
+			"\\chapter*",
+			"",
+			"\\\\cdot ",
+			"\\\\cdot",
+			"\\cdot",
+			"",
+			"$1,$2;",
+			"$1,$2",
+			"",
+			".",
+			"",
+			" ",
+			"",
+			"-",
+			"\\cdot",
+			"$",
+			"\\upsilon",
+			"\\varphi",
+			"$1",
+			">\\n",
+			" ",
+			">$1<",
+			">\\n",
+			"]]",
+			"",
+			".index(modul)",
+			"",
+			"\\n",
+			"",
+			"    ",
+			"adresse",
+			"skalierte",
+			"logarithmisch skallierte ",
+			"\\times",
+			"x_{End}",
+			"_abweichung_new.png",
+			"formel",
+			"\\\\n",
+			"       \"variants\": [{",
+			"\"description\": \"$1\"\\n",
+			"\"},\n            {\"syntax\"",
+			"",
+			"}]},",
+			"\"variants\": [{",
+			"]},",
+			": {\\n\\t\"variants\": [\\n",
+			"}",
+			"",
+			"\"variants\" : [   \n        {\"syntax\":",
+			"\"description\":\"\"}\\n]",
+			"Social Bookmarking Seite",
+			"\\textit{discovery}",
+			"IL",
+			"\\\\}",
+			"quoteation",
+			"''",
+			"``",
+			" \\textit{Gamification}",
+			"\\%",
+			"ö",
+			"ü",
+			"ä",
+			"ü",
+			"social search",
+			"Digital Library",
+			"Digital Libraries",
+			" \\\\textit{Social Search} ",
+			"\\s\\\\textit{Social Search}\\s",
+			"\\s\\textit{Social Search}\\s",
+			"Social Search",
+			"\\\\end{quote}",
+			"\\\\begin{quote}",
+			"\\begin{quote}",
+			"\\textit"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Ausarbeitung.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/2.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/3.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content/4.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content/5.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "content/1.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "content/6.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "content/flowchart.tikz",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/TeX.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 424.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 235.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "uebung1.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 150.0,
+		"last_filter": "Tur",
+		"selected_items":
+		[
+			[
+				"Tur",
+				"ValidateTurtleCommand"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
