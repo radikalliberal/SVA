@@ -31,10 +31,16 @@ Tabelle \ref{tab:zeiten} zeigt die von uns approximierten Zeiten für die vorhan
 
     \end{tabularx}
 \end{table}
-
+Das erweiterte Petrinetz sieht wie in Abbildung \ref{pic:petrinetz} dargestellt aus. Es wurde ein \textit{Hilfs-Platz} namens Tasse hinzugefügt, die dazu dient, dass die Stärke nicht doppelt für die Herstellung von dem Milch-Stärke-Gemisch verwendet wird, und das System verklemmt. Zusätzlich wurde ein Platz namens \textit{Koch} hinzugefügt, der eine Kante zu allen Transitionen die eine Tätigkeit eines Kochs repräsentieren hat. An diesem Platz wird die Anzahl der Köche durch die Startmarkierung verändert.
 \begin{figure}[ht]
-  \includegraphics[width=1\textwidth]{pics/net.png}
+  \fbox{\includegraphics[width=1\textwidth]{pics/net.png}}
   \caption{Das auf Basis der Rezeptur erstellte Petrinetz, erweitert zum timed Net}
   \label{pic:petrinetz}
 \end{figure}
+
+Die Durchführung haben wir mithilfe eines von uns geschriebenen Autohotkey-Skripts automatisiert, worüber das Starten und Stoppen getriggert wurde. Die Datenausgabe haben wir über den Strat von Renew über den folgenden Aufruf in eine Textdatei schreiben lassen:
+\begin{lstlisting}
+java -jar loader.jar gui > data.txt
+\end{lstlisting}
+
 % section aufgabe_3 (end)
