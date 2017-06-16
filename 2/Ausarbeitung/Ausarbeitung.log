@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.28)  29 MAY 2017 22:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.28)  16 JUN 2017 13:35
 entering extended mode
 **"D:/Dropbox/Studium/Master Informatik/4.Semester/SVA/Ãœbungen/2/Ausarbeitung/
 Ausarbeitung.tex"
@@ -918,6 +918,31 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 raries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
+(C:\Users\jan\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count151
+\lst@gtempboxa=\box68
+\lst@token=\toks41
+\lst@length=\count152
+\lst@currlwidth=\dimen199
+\lst@column=\count153
+\lst@pos=\count154
+\lst@lostspace=\dimen256
+\lst@width=\dimen257
+\lst@newlines=\count155
+\lst@lineno=\count156
+\lst@maxwidth=\dimen258
+
+(C:\Users\jan\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count157
+\lst@skipnumbers=\count158
+\lst@framebox=\box69
+)
+(C:\Users\jan\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
 (C:\Users\jan\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\lib
 raries\tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
@@ -969,26 +994,26 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 braryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 
-\pgfnodepartlowerbox=\box68
-\pgfnodeparttwobox=\box69
-\pgfnodepartthreebox=\box70
-\pgfnodepartfourbox=\box71
-\pgfnodeparttwentybox=\box72
-\pgfnodepartnineteenbox=\box73
-\pgfnodeparteighteenbox=\box74
-\pgfnodepartseventeenbox=\box75
-\pgfnodepartsixteenbox=\box76
-\pgfnodepartfifteenbox=\box77
-\pgfnodepartfourteenbox=\box78
-\pgfnodepartthirteenbox=\box79
-\pgfnodeparttwelvebox=\box80
-\pgfnodepartelevenbox=\box81
-\pgfnodeparttenbox=\box82
-\pgfnodepartninebox=\box83
-\pgfnodeparteightbox=\box84
-\pgfnodepartsevenbox=\box85
-\pgfnodepartsixbox=\box86
-\pgfnodepartfivebox=\box87
+\pgfnodepartlowerbox=\box70
+\pgfnodeparttwobox=\box71
+\pgfnodepartthreebox=\box72
+\pgfnodepartfourbox=\box73
+\pgfnodeparttwentybox=\box74
+\pgfnodepartnineteenbox=\box75
+\pgfnodeparteighteenbox=\box76
+\pgfnodepartseventeenbox=\box77
+\pgfnodepartsixteenbox=\box78
+\pgfnodepartfifteenbox=\box79
+\pgfnodepartfourteenbox=\box80
+\pgfnodepartthirteenbox=\box81
+\pgfnodeparttwelvebox=\box82
+\pgfnodepartelevenbox=\box83
+\pgfnodeparttenbox=\box84
+\pgfnodepartninebox=\box85
+\pgfnodeparteightbox=\box86
+\pgfnodepartsevenbox=\box87
+\pgfnodepartsixbox=\box88
+\pgfnodepartfivebox=\box89
 )))
 (C:\Users\jan\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\lib
 raries\tikzlibraryarrows.code.tex
@@ -997,42 +1022,42 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (C:\Users\jan\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibraryar
 rows.code.tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen199
+\arrowsize=\dimen259
 )) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks41
-\verbatim@line=\toks42
+\every@verbatim=\toks42
+\verbatim@line=\toks43
 \verbatim@in@stream=\read2
 )
 (Ausarbeitung.aux)
 \openout1 = `Ausarbeitung.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 (C:\Users\jan\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count151
-\scratchdimen=\dimen256
-\scratchbox=\box88
-\nofMPsegments=\count152
-\nofMParguments=\count153
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count154
-\MPscratchDim=\dimen257
-\MPnumerator=\count155
-\makeMPintoPDFobject=\count156
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count159
+\scratchdimen=\dimen260
+\scratchbox=\box90
+\nofMPsegments=\count160
+\nofMParguments=\count161
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count162
+\MPscratchDim=\dimen261
+\MPnumerator=\count163
+\makeMPintoPDFobject=\count164
+\everyMPtoPDFconversion=\toks45
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -1091,83 +1116,103 @@ Package caption Warning: \caption will not be redefined since it's already
 (caption)                unknown to the caption package.
 See the caption package documentation for explanation.
 
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 48.
+\c@lstlisting=\count165
+LaTeX Font Info:    Try loading font information for U+msa on input line 49.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 48.
+LaTeX Font Info:    Try loading font information for U+msb on input line 49.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 48.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 49.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-(content/Aufgabenstellung.tex) (content/Methodik.tex
-<pics/negexp.png, id=4, 546.54187pt x 298.11375pt>
+(content/Aufgabenstellung_FL.tex) (content/Methodik.tex [1
+
+
+{C:/Users/jan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<pics/negexp.png, id=14, 546.54187pt x 298.11375pt>
 File: pics/negexp.png Graphic file (type png)
  <use pics/negexp.png>
 Package pdftex.def Info: pics/negexp.png used on input line 6.
 (pdftex.def)             Requested size: 347.12354pt x 189.34106pt.
 
-[1
-
-
-{C:/Users/jan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 <pics/negexp2.png, id=15, 377.15906pt x 348.55219pt>
 File: pics/negexp2.png Graphic file (type png)
  <use pics/negexp2.png>
 Package pdftex.def Info: pics/negexp2.png used on input line 14.
 (pdftex.def)             Requested size: 347.12354pt x 320.7942pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./pics/negexp.png (PNG copy)>]) (content/Umsetzung.tex [3 <./pics/negexp2.
-png (PNG copy)>] <pics/net.png, id=29, 785.93625pt x 625.58719pt>
+[2 <./pics/negexp.png (PNG copy)>] [3 <./pics/negexp2.png (PNG copy)>])
+(content/Umsetzung.tex <pics/net.png, id=29, 785.93625pt x 625.58719pt>
 File: pics/net.png Graphic file (type png)
- <use pics/net.png>
+
+<use pics/net.png>
 Package pdftex.def Info: pics/net.png used on input line 36.
 (pdftex.def)             Requested size: 347.12354pt x 276.30923pt.
-)
-(content/Analyse.tex <pics/sim.png, id=31, 696.35156pt x 356.83313pt>
-File: pics/sim.png Graphic file (type png)
 
-<use pics/sim.png>
-Package pdftex.def Info: pics/sim.png used on input line 15.
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 36--37
+[][] 
+ []
+
+
+Overfull \hbox (3.90552pt too wide) in paragraph at lines 41--42
+[]\T1/cmr/m/n/10 Die Durch-füh-rung ha-ben wir mit-hil-fe ei-nes von uns ge-sch
+rie-be-nen Autohotkey-
+ []
+
+[4]) (content/Analyse.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+[5 <./pics/net.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+<pics/sim.png, id=39, 696.35156pt x 356.83313pt>
+File: pics/sim.png Graphic file (type png)
+ <use pics/sim.png>
+Package pdftex.def Info: pics/sim.png used on input line 13.
 (pdftex.def)             Requested size: 347.12354pt x 177.87708pt.
 )
 No file Ausarbeitung.ind.
-[4] [5 <./pics/net.png> <./pics/sim.png>] (Ausarbeitung.aux) ) 
+[6] [7 <./pics/sim.png>] (Ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
- 17000 strings out of 493333
- 345872 string characters out of 3139200
- 415483 words of memory out of 3000000
- 20166 multiletter control sequences out of 15000+200000
- 15212 words of font info for 44 fonts, out of 3000000 for 9000
+ 18589 strings out of 493333
+ 366771 string characters out of 3139200
+ 434911 words of memory out of 3000000
+ 21742 multiletter control sequences out of 15000+200000
+ 15898 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,67p,1270b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\jan\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk> <C:\User
-s\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> 
-<C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0
-900.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\ecrm0900.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
-\ec\dpi600\ecrm1000.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\ecbx1440.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
-5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Ausarbeitung.pdf (5 pages, 303882 bytes).
+ 55i,10n,67p,1323b,978s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\jan\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\jan\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk> <C:\Users\jan\App
+Data\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users
+\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk> <
+C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm09
+00.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ecrm1000.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1440.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Ausarbeitung.pdf (7 pages, 326181 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
+ 362 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
