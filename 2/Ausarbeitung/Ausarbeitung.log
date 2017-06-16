@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.28)  16 JUN 2017 13:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.28)  16 JUN 2017 19:17
 entering extended mode
 **"D:/Dropbox/Studium/Master Informatik/4.Semester/SVA/Übungen/2/Ausarbeitung/
 Ausarbeitung.tex"
@@ -1169,24 +1169,25 @@ Overfull \hbox (3.90552pt too wide) in paragraph at lines 41--42
 rie-be-nen Autohotkey-
  []
 
-[4]) (content/Analyse.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
+[4]) (content/Analyse.tex <pics/sim.png, id=35, 696.35156pt x 356.83313pt>
+File: pics/sim.png Graphic file (type png)
+
+<use pics/sim.png>
+Package pdftex.def Info: pics/sim.png used on input line 6.
+(pdftex.def)             Requested size: 347.12354pt x 177.87708pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
 
  []
 
 [5 <./pics/net.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-<pics/sim.png, id=39, 696.35156pt x 356.83313pt>
-File: pics/sim.png Graphic file (type png)
- <use pics/sim.png>
-Package pdftex.def Info: pics/sim.png used on input line 13.
-(pdftex.def)             Requested size: 347.12354pt x 177.87708pt.
-)
+[6 <./pics/sim.png>])
 No file Ausarbeitung.ind.
-[6] [7 <./pics/sim.png>] (Ausarbeitung.aux) ) 
+[7] (Ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
  18589 strings out of 493333
  366771 string characters out of 3139200
@@ -1195,22 +1196,22 @@ Here is how much of TeX's memory you used:
  15898 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,10n,67p,1323b,978s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\jan\AppData\Local\MiKTe
-X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\jan\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk> <C:\Users\jan\App
-Data\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users
-\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk> <
-C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm09
-00.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
-0\ecrm1000.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecbx1440.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Ausarbeitung.pdf (7 pages, 326181 bytes).
+ <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ectt1000.pk> <C:\Users\jan\AppData\Local\MiKTeX\2.9
+\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\jan\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk> <C:\Users\jan\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\jan\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Us
+ers\jan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb>
+Output written on Ausarbeitung.pdf (7 pages, 326261 bytes).
 PDF statistics:
  362 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
